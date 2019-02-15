@@ -1,1 +1,1 @@
-# Some small applications developed by python
+# Some small applications developed by Python I learn on Udemy
